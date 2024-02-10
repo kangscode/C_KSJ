@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(C_KSJ.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Project2.c
+C:\Users\GRAM\OneDrive\바탕 화면\C_KSJ\C_KSJ\C_KSJ\Project2.c(79,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\GRAM\OneDrive\바탕 화면\C_KSJ\C_KSJ\C_KSJ\Project2.c(106,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\GRAM\OneDrive\바탕 화면\C_KSJ\C_KSJ\C_KSJ\Project2.c(111,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\GRAM\OneDrive\바탕 화면\C_KSJ\C_KSJ\C_KSJ\Project2.c(136,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C_KSJ.vcxproj -> C:\Users\GRAM\OneDrive\바탕 화면\C_KSJ\C_KSJ\Debug\10월평일_c언어.exe
